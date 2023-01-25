@@ -74,14 +74,13 @@ section > p {
 
 .imagem > p {
     background-color: rgba(0, 0, 0, 0.502);
-    display: inline-block;
+    display: inline-block; 
     padding: 5px;
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.458);
 }
 
 #img01 {
     background-image: url('imagens/background001.jpg');
-    /* background-position: right center; */
 }
 
 #img02{
